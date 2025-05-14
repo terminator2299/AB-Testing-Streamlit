@@ -17,4 +17,4 @@ This project allows you to simulate or analyze A/B experiments. Built with Strea
 - WatchDog
 
 ## 🔗 Live Demo
-[Click to launch on Streamlit](https://your-streamlit-url.streamlit.app)
+[Click to launch on Streamlit](https://ab-testing-framework.streamlit.app/)
